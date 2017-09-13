@@ -29,10 +29,12 @@ button i{
 
 button.a{
   background-color: #1aaaf8;
+  cursor: pointer;
 }
 
 button.b{
   background-color: #00cbca;
+  cursor: pointer;
 }
 
 #tip{
